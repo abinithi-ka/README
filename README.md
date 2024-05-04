@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abinithika14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zyr56DUBYorD-o7AzkEOoK92mpG06YnW/view?usp=sharing](https://drive.google.com/file/d/1zyr56DUBYorD-o7AzkEOoK92mpG06YnW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hACvAbcspZ9NgYbbudlM6k-7YgID-zF0/view?usp=sharing](https://drive.google.com/file/d/1hACvAbcspZ9NgYbbudlM6k-7YgID-zF0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
