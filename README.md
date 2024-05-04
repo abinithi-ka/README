@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abinithi_ka" target="blank"><img src="https://img.shields.io/twitter/follow/abinithi_ka?logo=twitter&style=for-the-badge" alt="abinithi_ka" /></a> </p>
 
-- 🔭 I’m currently Learning **Data Science**
+- 🔭 I’m Good at **Data Science**
 
 - 🌱 I’m currently learning **Machine Learning**
 
