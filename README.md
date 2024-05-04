@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/abinithi_ka" target="blank"><img src="https://img.shields.io/twitter/follow/abinithi_ka?logo=twitter&style=for-the-badge" alt="abinithi_ka" /></a> </p>
 
-- 🔭 I’m currently Learning **Artificial Intelligece**
+- 🔭 I’m currently Learning **Data Science**
 
-- 🤝 I’m looking to do **Data Science**
+- 🌱 I’m currently learning **Machine Learning**
+
+- 🤝 I’m looking to do **Data Science projects**
 
 - 💬 Ask me about **AI | Machine Learning | Data Science**
 
@@ -20,9 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abinithi_ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abinithi_ka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/abinithi-ka-2b6065202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abinithi-ka-2b6065202" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abinithi-ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinithi-ka" height="30" width="40" /></a>
 <a href="https://kaggle.com/abinithi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abinithi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61558766975072&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61558766975072&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/itsjustt.abinithi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsjustt.abinithi_" height="30" width="40" /></a>
 </p>
 
