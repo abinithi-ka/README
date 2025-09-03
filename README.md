@@ -13,18 +13,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abinithi-dataanalyst/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30"/>
   </a>
   <a href="https://kaggle.com/abinithi" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" height="30" width="30"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Kaggle_logo.png" alt="Kaggle" height="30" width="30"/>
   </a>
   <a href="https://www.instagram.com/_abinithi._?igsh=NDYwYWtkaXB4cWJt&utm_source=qr" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="30" width="30"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30"/>
   </a>
   <a href="https://www.reddit.com/user/LeadingDismal7415/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" alt="Reddit" height="30" width="30"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Reddit_logo_and_wordmark.svg/1200px-Reddit_logo_and_wordmark.svg.png" alt="Reddit" height="30" width="30"/>
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
