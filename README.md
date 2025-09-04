@@ -8,7 +8,7 @@
 -  I’m collaborating on **Data Science projects**  
 -  Ask me about **AI, Machine Learning, Deep Learning, Data Analytics**  
 -  Reach me at **abinithikasilingam14@gmail.com**  
--  My experiences: [Resume](https://drive.google.com/file/d/1cHAq8fUw0FugohNco-BYvraQOt2j-Bps/view?usp=sharing)
+-  My experiences: [Resume](https://drive.google.com/file/d/1brzFl_hraEHoSmdVL2wA0McEgWqSm9hz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
